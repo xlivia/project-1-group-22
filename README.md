@@ -5,8 +5,6 @@
 3. [Data Understanding](#data)
 4. [Data Preparation](#preparation)
 4. [File Descriptions](#files)
-5. [Results](#results)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
