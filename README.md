@@ -1,14 +1,10 @@
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Business Understanding](#business)
-3. [Data Understanding](#data)
-4. [Data Preparation](#preparation)
+1. [Business Understanding](#business)
+2. [Data Understanding](#data)
+3. [Data Preparation](#preparation)
 4. [File Descriptions](#files)
 
-## Installation <a name="installation"></a>
-
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Business Understanding<a name="business"></a>
 
