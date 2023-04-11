@@ -1,10 +1,3 @@
-### Table of Contents
-
-1. [Business Understanding](#business)
-2. [Data Understanding](#data)
-3. [Data Preparation](#preparation)
-4. [File Descriptions](#files)
-
 
 ## Business Understanding<a name="business"></a>
 
