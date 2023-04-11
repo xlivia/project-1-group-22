@@ -44,5 +44,3 @@ There are 3 notebooks available here to showcase work related to the above quest
 There is also a file with an exploration of the data. (DataExploration)
 
 The file 'BankChurners.csv' is the data set used to anserw the questions.
-
-## Results<a name="results"></a>
