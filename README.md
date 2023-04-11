@@ -46,9 +46,3 @@ There is also a file with an exploration of the data. (DataExploration)
 The file 'BankChurners.csv' is the data set used to anserw the questions.
 
 ## Results<a name="results"></a>
-
-The main findings of the code can be found at the post available [here](https://cmdraghici.medium.com/how-bank-clients-behave-442910aa3635).
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/sakshigoyal7/credit-card-customers).  Otherwise, feel free to use the code here as you would like! 
